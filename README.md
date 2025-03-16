@@ -35,7 +35,7 @@ Keeps your PC healthy to help minimize Droptop/Rainmeter crashes.
 Install and activate the app.  Left click "Start PC Scan".
 
 ## Download
-<a href="https://droptopfour.com/community-apps/?id=26" target="_blank">Droptop Four Community Apps</a>
+[Droptop Four Community Apps](https://droptopfour.com/community-apps/?id=26)
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton)
