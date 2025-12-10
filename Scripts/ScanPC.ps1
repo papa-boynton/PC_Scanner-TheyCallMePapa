@@ -64,7 +64,7 @@ $R = New-Object RECT                                          # Define A Rectang
 [Void][Window]::GetWindowRect($WH, [ref]$R)                      # Get the Rectangle Object in $R (and Result flag)
 
 # Define the Window (Position, Size)
-$X = [math]::round(($screenWidth / 3.5) - ($windowWidth * 2)) # $R.Left
+$X = [math]::round(($screenWidth / 4.5) - ($windowWidth * 2)) # $R.Left
 $Y = [math]::round(($windowHeight / 4.5) - ($screenHeight / 2)) #R.Top
 $Width = $R.Right - $R.Left
 $Height = $R.Bottom - $R.Top
